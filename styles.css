@@ -27,7 +27,7 @@ html,body{
 .login-box h1{
     font-size: 45px;
     font-family: 'Kaushan Script', cursive;
-    color: rgb(212, 61, 6);
+    color: rgb(219, 95, 50);
     margin: 60px;
 }
 
@@ -58,3 +58,11 @@ html,body{
     cursor: pointer;
     background-color: orangered;
 }
+
+body {
+    background-image: url("https://c0.wallpaperflare.com/preview/869/66/475/morelia-mexico-morelia-michoacan-travelphotography-morelia.jpg");
+    background-position: center;
+    background-repeat: no-repeat, repeat;
+    background-size: 75%;
+    background-color: rgb(16, 247, 8);
+  }
